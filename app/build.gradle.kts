@@ -1,6 +1,7 @@
 plugins {
-    alias(libs.plugins.kotlin.jvm)
     id("application")
+    alias(libs.plugins.kotlin.jvm)
+    id("io.gatling.gradle") version "3.12.0.3"
 }
 
 repositories {
