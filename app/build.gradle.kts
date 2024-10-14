@@ -13,5 +13,5 @@ java {
 }
 
 application {
-    mainClass = "com.example.Hello"
+    mainClass = "com.example.App"
 }
