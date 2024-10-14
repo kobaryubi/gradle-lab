@@ -1,4 +1,5 @@
 plugins {
+    alias(libs.plugins.kotlin.jvm)
     id("application")
 }
 
@@ -13,5 +14,5 @@ java {
 }
 
 application {
-    mainClass = "com.example.App"
+    mainClass = "org.example.AppKt"
 }
