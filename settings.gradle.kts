@@ -4,3 +4,4 @@ plugins {
 
 rootProject.name = "gradle-lab"
 include("app")
+include("gatling")
