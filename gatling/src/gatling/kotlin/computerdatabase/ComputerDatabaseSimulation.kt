@@ -16,4 +16,3 @@ class ComputerDatabaseSimulation : Simulation() {
             .protocols(httpProtocolBuilder)
     }
 }
-
